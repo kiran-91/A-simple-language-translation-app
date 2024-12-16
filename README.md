@@ -75,6 +75,5 @@ https://language-translation.streamlit.app
 ## Acknowledgments
 
 - [Groq AI](https://www.groq.com/): For their powerful and efficient language model.
-- [LangChain](https://www.langchain.com/): For providing tools to manage LLMs effectively.
 - [Streamlit](https://streamlit.io/): For the elegant and user-friendly UI framework.
 
