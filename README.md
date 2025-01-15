@@ -1,3 +1,12 @@
+---
+title: Language Translation App using Groq
+emoji: ✨
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
 # Language Translation App using Groq 
 
 ## Project Overview
@@ -76,4 +85,3 @@ https://language-translation.streamlit.app
 
 - [Groq AI](https://www.groq.com/): For their powerful and efficient language model.
 - [Streamlit](https://streamlit.io/): For the elegant and user-friendly UI framework.
-
