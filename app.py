@@ -11,7 +11,7 @@ model=ChatGroq(model="Gemma2-9b-It", groq_api_key=groq_api_key)
 parser=StrOutputParser()
 
 
-# streamlit app 
+# my streamlit app 
 st.title("Language Translation App")
 st.write("This app uses the Groq AI model to translate text into different languages.")
 
