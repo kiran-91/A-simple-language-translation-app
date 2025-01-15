@@ -1,4 +1,4 @@
-# Language Translation App using Groq
+# Language Translation App using Groq 
 
 ## Project Overview
 
