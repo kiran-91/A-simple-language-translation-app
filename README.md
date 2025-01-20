@@ -16,9 +16,17 @@ This project is a language translation application leveraging the Groq AI model.
 ## Project Structure
 
 ```
-├── app.py               # Main application file
-├── requirements.txt     # Dependencies for the project
-├── .env                 # Environment variables (not included in the repository)
+📂Directory structure:
+└── kiran-91-a-simple-language-translation-app/
+    ├── README.md
+    ├── GroqLCEL.ipynb
+    ├── LICENSE
+    ├── app.py
+    ├── requirements.txt
+    └── .github/
+        └── workflows/
+            └── main.yaml
+
 ```
 
 
