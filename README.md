@@ -73,10 +73,9 @@ This project is a language translation application leveraging the Groq AI model.
    ```
 
 ## Results
-If you're on Team Lazy like me and would rather skip all the tasks, no worries—just kick back and check out the Streamlit app right here!
-```bash
-https://language-translation.streamlit.app 
-```
+> Important Update: Due to a recent security incident involving unauthorized use of my API keys in a DDoS attack, i have temporarily suspended cloud deployment of my Streamlit app and removed all those deployed apps. Please follow the installation guide to run the app locally. I am here to support you with any issues that may arise
+
+
 
 ## Usage
 
